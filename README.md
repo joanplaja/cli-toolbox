@@ -160,14 +160,14 @@ curl -sSL https://raw.githubusercontent.com/joanplaja/toolbox/main/setup.sh | sh
 
 | key/command     | action description                                  |
 |-----------------|-----------------------------------------------------|
-| ctrl + w + (H\|L) | Move current window to (left\|right) window |
-| leader + w + (h\|j\|k\|l) | Move to (left\|top\|bottom\|right) windows |
+| ctrl + w + (H \| L) | Move current window to (left \| right) window |
+| leader + w + (h \| j \|k \| l) | Move to (left \| top \| bottom \| right) windows |
 
 ### Terminal
 
 | key/command     | action description                                  |
 |-----------------|-----------------------------------------------------|
-| leader + t + (j\|k\|l) | Open terminal on (top\|bottom\|right) windows |
+| leader + t + (j \| k \| l) | Open terminal on (top \| bottom \| right) windows |
 
 ### Files and folders
 
@@ -194,6 +194,6 @@ curl -sSL https://raw.githubusercontent.com/joanplaja/toolbox/main/setup.sh | sh
 
 | key/command     | action description                                  |
 |-----------------|-----------------------------------------------------|
-| tab * (h\|l)     | Switch tab (left\|right)                    |
+| tab * (h \| l)     | Switch tab (left \| right)                    |
 | leader + b + d     | Delete tab                    |
 
