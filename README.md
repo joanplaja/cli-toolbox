@@ -161,7 +161,7 @@ curl -sSL https://raw.githubusercontent.com/joanplaja/toolbox/main/setup.sh | sh
 | key/command     | action description                                  |
 |-----------------|-----------------------------------------------------|
 | ctrl + w + (H \| L) | Move current window to (left \| right) window |
-| leader + w + (h \| j \|k \| l) | Move to (left \| top \| bottom \| right) windows |
+| leader + w + (h \| j \| k \| l) | Move to (left \| top \| bottom \| right) windows |
 
 ### Terminal
 
